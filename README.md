@@ -14,7 +14,6 @@
 
 ```
 git clone: https://github.com/kiaramm10/back_intress
-
 ```
 
 
@@ -22,12 +21,10 @@ git clone: https://github.com/kiaramm10/back_intress
 
 ```
 composer update 
-
 ```
 
 ```
 composer install
-
 ```
 
 
