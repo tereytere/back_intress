@@ -13,6 +13,6 @@ class AdminController extends AbstractController
     #[Route('/admin', name: 'admin')]
     public function register(Request $request): Response
     {
-        return $this->render('base.html.twig');
+        return $this->render('admin.html.twig');
     }
 }
